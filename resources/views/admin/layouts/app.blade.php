@@ -47,12 +47,12 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-6 copy-right" >
-                        {{date('Y')}} &copy; Booking Core by <a href="https://www.bookingcore.org" target="_blank">BookingCore Team</a>
+                        {{date('d/m/Y')}} &copy; TTCN</a>
                     </div>
                     <div class="col-md-6">
                         <div class="text-md-right footer-links d-none d-sm-block">
-                            <a href="https://www.bookingcore.org" target="_blank">About Us</a>
-                            <a href="https://m.me/bookingcore" target="_blank">Contact Us</a>
+                            <a href="https://www.bookingcore.org" target="_blank">Gmail: ducbui1211@gmail.com</a>
+                            <a href="https://m.me/bookingcore" target="_blank">Phone: +84355913199</a>
                         </div>
                     </div>
                 </div>
